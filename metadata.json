@@ -1,0 +1,6 @@
+{
+  "name": "Magisk Pro",
+  "description": "Advanced Magisk Manager with Root Hiding, Built-in Terminal, Boot Scripts, Modules & Backup",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
